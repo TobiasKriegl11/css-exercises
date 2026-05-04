@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.alert-box {
+    background-color: #ff617b56;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.special-box {
+    font-size: 24px;
+}
+
+#first-id {
+    color: rgb(25, 25, 211);
+    font-size: 36px;
+}
+
+#second-id {
+    background-color: rgb(129, 228, 129);
+    font-size: 24px;
+    font-weight: 700;
+}
